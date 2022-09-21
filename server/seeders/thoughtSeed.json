@@ -1,33 +1,33 @@
 [
     {
         
-        "thoughtText" : "molestiae dicta voluptas ut iusto et hic nam", 
-        "username" : "Jody.Eichmann", 
+        "thoughtText" : "the weather is good!", 
+        "username" : "gmz", 
         "reactions" : [ 
             {
-                "reactionBody" : "non exercitationem consequatur temporibus quia dicta id earum molestias voluptatibus et ut quia officiis dignissimos ex maxime sit voluptatem", 
-                "username" : "Tyree17"
+                "reactionBody" : "it is hot here", 
+                "username" : "john"
             } 
         ] 
     },
     {
-        "thoughtText" : "sapiente illo animi non et molestiae et blanditiis adipisci aut ut dolore", 
-        "username" : "Shyann.Crist57", 
+        "thoughtText" : "it is sunny in elk grove", 
+        "username" : "sam", 
         "reactions" : [ ] 
     },
     {
-        "thoughtText" : "et ea non ut occaecati quasi ullam", 
-        "username" : "Elton_Heaney", 
+        "thoughtText" : "nice weather.", 
+        "username" : "dave", 
         "reactions" : [ 
             {
-                "reactionBody" : "praesentium id ratione quisquam voluptatibus rerum ut et assumenda", 
-                "username" : "Annabelle79" 
+                "reactionBody" : "perfect", 
+                "username" : "gmz" 
             }
      ] 
     },
     {
-        "thoughtText" : "nam assumenda dolorum est sint eum qui dolorem", 
-        "username" : "Donny21", 
+        "thoughtText" : "good to hear that", 
+        "username" : "john", 
         "reactions" : [ ] 
     }
    
