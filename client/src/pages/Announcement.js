@@ -9,10 +9,13 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link'
 
-export default function Announcement() {
+export default function SocialEvent() {
   const cards = [1, 2, 3, 4, 5, 6, 7, 8, 9];
   return (
     <Container sx={{ py: 8 }} maxWidth="md">
+        <Typography gutterBottom variant="h3" component="h2">
+                Announcement
+              </Typography>
     <Grid container spacing={4}>
       {cards.map((card) => (
         <Grid item key={card} xs={12} sm={6} md={4}>

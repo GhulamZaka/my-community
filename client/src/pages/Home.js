@@ -34,8 +34,8 @@ export default function Home(){
               spacing={2}
               justifyContent="center"
             >
-              <Button variant="contained">Login</Button>
-              <Button variant="outlined">Sign up</Button>
+              <Button variant="contained" href="/login">Login</Button>
+              <Button variant="outlined" href="/signup">Sign up</Button>
             </Stack>
           </Container>
         </Box>

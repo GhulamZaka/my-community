@@ -17,9 +17,9 @@ import Contact from './pages/Contact';
 import Login from './pages/Login';
 import SocialEvent from './pages/SocialEvent';
 // import SingleThought from './pages/SingleThought';
-import Profile from './pages/Profile';
+
 import Signup from './pages/Signup';
-import Announcement from './components/Announcement';
+import Announcement from './pages/Announcement';
 
 
 const httpLink = createHttpLink({
@@ -48,7 +48,7 @@ function App() {
     <div>
       <Header/>
       <div className="container">
-            {/* <Routes>
+            <Routes>
               <Route 
                 path="/" 
                 element={<Home />} 
@@ -62,8 +62,8 @@ function App() {
                 element={<Signup />} 
               />
               <Route 
-                path="/profile" 
-                element={<Profile />} 
+                path="/announcement" 
+                element={<Announcement />} 
               />
                <Route 
                 path="/SocialEvent" 
@@ -73,14 +73,7 @@ function App() {
                 path="/contact" 
                 element={<Contact />} 
               />
-            </Routes> */}
-            <Home/>
-            <Announcement/>
-            <SocialEvent/>
-            <Contact/>
-            <login/>
-            <Signup/>
-            <Profile/>
+            </Routes>
           </div>
           <Footer />
         </div>
